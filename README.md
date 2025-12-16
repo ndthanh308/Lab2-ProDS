@@ -7,7 +7,7 @@ Dự án bao gồm 3 notebook theo pipeline: khám phá dữ liệu (EDA) → ti
 
 ---
 
-## 0. Table of Contents
+## Table of Contents
 
 - [1. Project Title & Description](#1-project-title--description)
 - [2. Introduction](#2-introduction)
