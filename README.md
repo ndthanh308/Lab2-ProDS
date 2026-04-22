@@ -209,7 +209,7 @@ Lab2-ProDS/
 
 - **Author:** Nguyễn Đồng Thanh
 - **Student ID:** 23127538
-- **Contact:** [Your Email/GitHub Link]
+- **Contact:** ndthanh308@gmail.com
 
 ---
 
